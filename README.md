@@ -42,7 +42,7 @@ bitcoin-python/
 ### Step 1: Clone or Download the Project
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ridwaanhall/bitcoin-python.git
 cd bitcoin-python
 ```
 
